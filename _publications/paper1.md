@@ -9,7 +9,3 @@ paperurl: 'https://arxiv.org/abs/1911.09110'
 citation: 'Shashank Shalgar et al JCAP06(2020)048'
 ---
 
-
-[Download paper here](https://arxiv.org/abs/1911.09110)
-
-Recommended citation: Shashank Shalgar et al JCAP06(2020)048.
