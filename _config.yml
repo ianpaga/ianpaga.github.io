@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ian Padilla-Gay"
+title                    : "Ian's personal website"
 title_separator          : "-"
 name                     : &name "Ian Padilla-Gay"
-description              : &description "Postdoctoral Research Associate at SLAC and Stanford"
+description              : &description "some description"
 url                      : https://ianpaga.github.io/     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""                             # the subpath of your site, e.g. "/blog"
 repository               : "ianpaga.github.io"
@@ -25,11 +25,11 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               :                    # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               :                                # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            : 5                  # 5 (default)
-    colorscheme          : dark               # "light" (default), "dark"
+    num_posts            : 5                              # 5 (default)
+    colorscheme          : dark                           # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Ian Padilla-Gay"
   avatar           : "NBIA_IanPadillaGay_D.jpeg"   #"profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Postdoctoral Research Associate at SLAC and Stanford"
+  location         : "Palo Alto, California, U.S."
+  employer         : SLAC and Stanford
+  pubmed           :                             
+  googlescholar    : "https://scholar.google.com/citations?user=DWE-zkEAAAAJ&hl=en"
+  email            : "ianpaga@slac.stanford.edu"
+  researchgate     : "https://www.researchgate.net/profile/Ian-Padilla-Gay" 
   uri              :
-  bitbucket        :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/ianpaga"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  LinkedIn         : "https://www.linkedin.com/in/ian-padilla-gay-2b0b0090/"
+  orcid            : "https://orcid.org/0000-0003-2472-3863"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
