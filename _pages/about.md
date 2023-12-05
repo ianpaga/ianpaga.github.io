@@ -10,8 +10,6 @@ redirect_from:
 
 ## Neutrinos in astrophysics 
 
-Welcome to my website :-)
-
 My research focuses on neutrino flavor oscillations in astrophysical dense media, such as core-collapse supernovae and the remnants of neutron star mergers. These very dense environments allow us to learn about the quantum mechanical behavior of matter under extreme conditions and thus represent a unique site for learning new physics.
 
 I completed my PhD at the [Niels Bohr Institute](https://nbi.ku.dk/english/research/astrophysics/astronu/) (Denmark) in 2022 working with [Prof. Irene Tamborra](https://nbi.ku.dk/english/staff/?pure=en/persons/526828) on neutrino flavor conversion in dense astrophysical media. Before that, I was a master's student at [Lund University](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NAFYK-TEFY) (Sweden) working under the supervision of [Prof. Roman Pasechnik](https://portal.research.lu.se/en/persons/roman-pasechnik) on the phenomenology of three-Higgs doublet models. Since then, I've been broadly interested in the intersection between particle physics and astrophysics.
