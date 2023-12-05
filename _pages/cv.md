@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+My latest CV (Dec 2023) can be found [here](https://ianpaga.github.io/files/CV_IPG.pdf)
+
+
 {% include base_path %}
 
 Education
