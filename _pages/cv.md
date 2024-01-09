@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My latest CV (Dec 2023) can be found [here](https://ianpaga.github.io/files/CV_IPG.pdf)
+My latest academic CV (Dec 2023) can be found [here](https://ianpaga.github.io/files/CV_IPG.pdf)
 
 
 {% include base_path %}
@@ -30,16 +30,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-#  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+%%%Talks
+%%%======
+%%%  <ul>{% for post in site.talks %}
+%%%    {% include archive-single-talk-cv.html %}
+%%%  {% endfor %}</ul>
+  
+%%%Teaching
+%%%======
+%%%  <ul>{% for post in site.teaching %}
+%%%    {% include archive-single-cv.html %}
+%%%  {% endfor %}</ul>
   
 
