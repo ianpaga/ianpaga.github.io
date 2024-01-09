@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper8
 excerpt: 
 date: 2023-12-11
-venue: 'Physical Review D (PRD) - in press'
+venue: 'Physical Review D (PRD)'
 paperurl: 'https://arxiv.org/abs/2312.07612'
-citation: ''
+citation: 'in press'
 ---
