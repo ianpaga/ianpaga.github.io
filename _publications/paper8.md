@@ -6,5 +6,6 @@ excerpt:
 date: 2023-12-11
 venue: 'Physical Review D (PRD)'
 paperurl: 'https://arxiv.org/abs/2312.07612'
-citation: 'in press'
+citation: 'Phys.Rev.D 109 (2024) 6, 063021 '
+
 ---
